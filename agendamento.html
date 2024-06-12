@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <title>Agendamento</title>
+    
+</head>
+<body>
+    <header>
+        <h1>Subzero Climatização</h1>
+        <h4>Vendas, Instalação e Manutenção</h4>
+        <nav>
+            <a href="index.html">HOME</a>
+        </nav>
+    </header>
+        <br><br>  
+<section class="form">
+    <fieldset>
+    <legend><h3>AGENDAMENTO DE VISITA TÉCNICA</h3></legend>
+        <form action="register.php" method="post">
+        <div>
+            <label for="nome">Nome</label>
+            <input type="text" name="name" id="name" required>
+            <br><br>
+            <br><br>
+            <label for="city">Cidade</label>
+            <input type="text" name="city" id="city" required>
+            <br><br>
+            <br><br>
+            <label for="endereco">Endereço</label>
+            <input type="text" name="endereco" id="endereco" required>
+            <br><br>
+            <br><br>
+            <label for="number">Telefone de Contato</label>
+            <input type="text" name="number" id="number" min="1">
+            <br><br>
+            <br><br>
+            <label for="job">Tipo de Serviço</label>
+            <input type="text" name="job" id="job" required>
+            <br><br>
+            <br><br>
+            <label for="date">Data da Visita Técnica</label>
+            <input type="date" name="date" id="date" required>
+            <br><br>
+            <br><br>
+            <input type="submit" name="botao" id="botao">
+            <input type="reset" name="reset" id="botao" >
+            <br><br>
+        </div>
+    </form>
+    </fieldset>
+</section> 
+<br><br>
+
+<footer>
+    <p>Desenvolvido por Luan Viana</p>
+</footer>
+
+</body>
+</html>
