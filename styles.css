@@ -1,0 +1,181 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-image: url("../img/floco-gelo.jpg");
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color:#49a5f6;
+}
+
+p, label {
+    color: #444;
+    font-size: 1.9rem;
+}
+
+p {
+    text-align: justify;
+}
+
+input {
+    border: none;
+    padding: 0.6%;
+    border: solid #ccc;
+    width: 30%;
+}
+
+header {
+    height: 20%;
+    padding: 5%;
+    font-size: 3rem;
+    background-image: url("../img/imagen-topo.jpg");
+}
+
+header h1, h4 {
+    color: #fff;
+    margin-top: 0;
+    text-shadow: 5px 5px #3c3131;
+} 
+
+.form {
+    background-color:#dee1e2;;
+    width: 70%;
+    margin: 0 auto;
+    height: 30%;
+}
+
+fieldset {
+    width: 90%;
+    margin: 0 auto;
+    padding: 1%;    
+    border: solid;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.9rem;
+    font-weight: bold;
+    text-shadow: 2px 2px #76a2c4;
+}
+
+a:hover {
+    color: #1e567d;
+    font-weight: bold;
+}
+
+legend {
+font-size: 2rem;
+}
+
+.form {
+    padding: 3%;
+}
+
+.title {
+    font-size: 2.5rem;
+    padding-top: 2%;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+#botao {
+    color: #90a2b0;
+    background-color: #1e567d;
+}
+
+#botao:hover {    
+    font-weight: bold;
+    color: #fff;
+}
+
+.agenda {
+    padding: 2%;
+}
+
+footer {
+    font-size: 1.5rem;
+    background-color: #1e567d;
+    padding: 2%;
+    text-align: center;
+}
+
+footer p {
+    color: #fff;
+    text-align: center;
+}
+
+label {
+    padding: 1.2%;
+}
+
+aside {
+    margin: 0 auto;
+    width: 99%;
+}
+
+ul {
+   font-size: 2rem;
+   padding: 3%;
+   background-color: #69ace8;
+   border-bottom-left-radius: 10px;
+   border-bottom-right-radius: 10px;
+}
+
+aside h3 {
+    font-size: 2.3rem;
+    background-color: #044357;
+    color: #fff;
+    padding: 1.5%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+#botao1 {
+    color: #49a5f6;
+    text-shadow: 1px 1px #444;
+}
+
+#botao1:hover {
+    color: #044357;
+}
+
+.w3-card-4 {
+    text-align: center;
+}
+.php {
+    font-size: 5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    text-align: justify;
+    padding: 10%;
+    text-shadow: 2px 2px #000;
+    margin: 0 auto;
+ }
+
+ .home {
+    padding-left: 10%;
+ }
+
+figure {
+    text-align: center;
+    padding: 2%;
+}
+
+.img-infra2 {
+    border-radius: 20px;
+    width: 50%;
+}
+
+/* <span class:"required-field>*</span> usado para itens obrigatórios */ 
