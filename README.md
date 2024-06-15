@@ -1,2 +1,2 @@
-# projeto-estagio-multivix
-Projeto Final do Estágio Supervisionado - Multivix
+# PEI II - Luminancia app.
+Luminância APP.
