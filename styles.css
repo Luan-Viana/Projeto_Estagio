@@ -104,13 +104,13 @@ h2 {
 }
 
 footer {
-    font-size: 0.8rem;
     background-color: #1e567d;
     padding: 2%;
     text-align: center;
 }
 
 footer p {
+    font-size: 0.8rem;
     color: #fff;
     text-align: center;
 }
