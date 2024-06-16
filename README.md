@@ -1,2 +1,2 @@
-# PEI II - Luminancia app.
-Luminância APP.
+# Projeto Estagio
+projeto de estágio
