@@ -50,6 +50,8 @@ header h1, h4 {
     width: 70%;
     margin: 0 auto;
     height: 30%;
+    border-radius: 20px;
+    padding: 3%;
 }
 
 fieldset {
@@ -74,10 +76,6 @@ a:hover {
 
 legend {
 font-size: 2rem;
-}
-
-.form {
-    padding: 3%;
 }
 
 .title {
